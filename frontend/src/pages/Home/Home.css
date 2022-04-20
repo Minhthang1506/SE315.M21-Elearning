@@ -50,10 +50,10 @@
     box-shadow: 0 2px 8px -2px rgba(0, 0, 0, 0.3);
 }
 .Menu1{    
-    margin: 20px 0 ;
+    /* margin: 20px 0 ;
     margin-left: 20px;
     margin-right: 30px;
-    position: relative;
+    position: relative; */
     /* top: 500px; */
 }
 .Menu1 > h2{
@@ -79,15 +79,12 @@
         width:70%;
 }
 
-.coursecards{
-  padding: 8px;
-  width: 100%;
-}
-.slick-list{
+
+/* .slick-list{
     display:grid;
     grid-template-columns: repeat(auto-fill,minmax(350px,1fr));
     height: 400px;
-}
+} */
 
 .coursecard{
     width: 252px;
@@ -95,7 +92,7 @@
 
 }
 
-.slick-active{
+/* .slick-active{
         margin: 0 10px;
         margin-left: 20px;
 }
@@ -107,7 +104,7 @@
 }
 .slick-prev{
         z-index: 8;
-}
+} */
 .coursecard h3 {
     width: 230px;
     cursor: pointer;

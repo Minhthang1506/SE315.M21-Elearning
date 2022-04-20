@@ -36,11 +36,11 @@
 .courseSurSujet p {
   font-size: 16px;
 }
-.slick-list {
+/* .slick-list {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
   height: 400px;
-}
+} */
 .iconPeople {
   margin-right: 5px;
 }
@@ -74,10 +74,10 @@
 .TabContent {
   padding: 10px 20px;
 }
-.slick-active {
+/* .slick-active {
   margin: 0 10px;
   margin-left: 20px;
-}
+} */
 .slick-prev::before,
 .slick-next::before {
   font-size: 25px;
